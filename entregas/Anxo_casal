@@ -1,0 +1,29 @@
+Portal de datos de ministro de agricultura de Tunisia: http://www.agridata.tn/
+
+Portal del estado de Alabama: https://open.alabama.gov/
+
+PORTAL DE DATOS DE VIGO
+
+LINK: https://datos.vigo.org/es/?doing_wp_cron=1700497228.1460969448089599609375
+
+Es un portal de datos dispuesto por el ayuntamiento de Vigo para distribuir todo tipo de datos relacionados co la ciudad
+
+Con tiene 186 datasets (16 Categorias)
+
+El unico organismo encargado de estos datos son el procio Concello de Vigo
+
+Usa los formatos de JSON, GeoJSON, SHP, KML, XLS y CSV
+
+Hay todos los tipos de datos: estructurados, semi-estructurados y desestructurados
+
+-Dataset: Museos (Galego) (XLS)
+
+URL: https://datos-ckan.vigo.org/dataset/turismo-poi-museos/resource/95669a8e-86c8-47f5-96fd-d4f38c36807e
+
+Base de datos con los museos de Vigo, contienen su nombre, web, numero de tlf., categoría, coordenadas, etc
+
+Es un archivo XLS.
+Son datos estructurados.
+
+Una guía turística que quiere hacer recorrido por los museos de Vigo
+
