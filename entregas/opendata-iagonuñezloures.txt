@@ -1,0 +1,28 @@
+1.-Opendata portals
+
+Vigo - https://datos.vigo.org/es/?doing_wp_cron=1700496718.0960879325866699218750
+
+Barcelona - https://opendata-ajuntament.barcelona.cat/es/
+
+Opendata UDC - https://www.udc.es/es/biblioteca/servizos/apoio_investigacion/recursos_info/opendata/
+
+2.- OpenData Vigo
+
+Name: PORTAL DE DATOS ABIERTOS DEL AYUNTAMIENTO DE VIGO
+Objective: Promote innovation and investigation
+Size: More than 186 DataSets
+Organization: 16 different categories, sepparated by data origin (comerce, demographics, eductaion...)
+Data types: Most of them are structured or semistructured
+File formats: JSON, GeoJSON, SHP, KML, CSV
+
+3.- Dataset
+
+Name: Centrales de policía autonómica de Vigo
+Link: https://datos-ckan.vigo.org/dataset/seguridad-polautonoma
+Description: Dataset containing all the police stations in Vigo (Policia autonómica)
+Data type and format: Structured Data in JSNO, GEOJSON, SHAPEFILE. KML. XLS, CSV
+
+4.-
+We can use this dataset to layout an escape route if we decide to rob a bank, commit domestic terrorism
+
+
