@@ -1,0 +1,28 @@
+search and analysis of OpenData web pages
+
+Enter name and link of 3 openData portals
+
+Ayuntamiento de barcelona
+Naciones Unidas
+Unión Europea
+ 
+Choose one of the projects to analyze it in more depth.
+
+The official portal for European data
+Point of access to a wide variety of data produced by the institutions and other bodies of the European Union.
+1 609 799 datasets
+The site contains a home page where you can find how the site is organized. It contains different links where you can enter directly to the datasets or you can enter the catalog that will contain all the previous datasets organized according to country or institution.
+WMS, CSV, WFS, JSON, HTML, ZIP, TIFF, GML, PX, MDB, ARC, SPARQL, etc...
+
+Choose a dataset
+
+Lugares de vacunación contra la COVID-19 (en francia)
+Lugares de vacunacion
+The dataset contains a list of sites dedicated to COVID-19 vaccination in France. 
+csv, json, docx, pdf
+
+Think about a "use case" for the chosen dataset. What could you or your company or organization use it for?
+
+This information could be used to distribute resources among these vaccination sites in case there is demand for vaccines, to identify sites with lower vaccination rates, or to keep data updated to provide real-time information on the status of vaccination centers.
+
+ 
