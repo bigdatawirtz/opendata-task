@@ -1,0 +1,30 @@
+
+Link of the three open data portals:
+
+Open Data BCN (Barcelona)
+'Portal de datos abiertos del Ayuntamiento de Madrid' 
+Spanish goverment (Gobierno España)
+Chosen one: 'Portal de datos abiertos del Ayuntamiento de Madrid'
+
+Activity: This is dedicated to promoting access to municipal government data and fostering the development of creative tools to engage and serve the citizens of Madrid.
+Databases hosted: Nearly 600 datasets and almost 120 APIs.
+Organization. The Open Data Portal is structured in four sections:
+Home: presents the portal's home page with highlighted featured datasets, links to functionalities and news, and the portal's main indicators.
+About Data: offers informative content on open data, terms of use, regulations, latest news, etc.
+Data Catalog: contains the list of all published datasets and an API (Application Programming Interface) channel with operations to facilitate direct access to the data.
+Collaborate: propose new datasets, consult and comment on proposals, consult examples of reuse, and sign up for the reusers' register to receive news from the portal.
+Data types: CSV (Comma-separated values), XLS (Microsoft Office Excel),  XML (Extensible Markup Language), TXT, RDF (Resource Description Framework), SHP (Shapefile), ZIP, JSON (JavaScript Object Notation), and more...
+Dataset chosen: Traffic accidents in the City of Madrid
+
+Traffic accidents in the City of Madrid were recorded by the Municipal Police.
+
+One record per person involved in the accident is included.
+
+This portal also offers two sets of data with related information such as:
+Statistical data on Municipal Police actions (includes data on attestations/accident reports by district and year).
+Traffic accidents involving bicycles. 
+Type of data:  CSV, RDF and XLSX
+
+What could you or your company or organization use it for?: With this data, it would be possible to offer a better service on the roads by having information about accidents. Improving the safety of neighbors.
+
+The data would show the areas with the highest number of accidents and where the greatest disturbances are found.
