@@ -1,0 +1,84 @@
+Enter name and link of 3 openData portals:
+
+https://opendata.euskadi.eus/catalogo-datos/
+
+https://opendata-ajuntament.barcelona.cat/es
+
+https://data.europa.eu/en
+
+
+Choose one of the projects to analyze it in more depth:
+
+Write the name of the chosen project:
+
+Open Data Euskadi
+
+Describe the activity of the project
+
+Promoción de la apertura de datos de la Administración de Euskadi en formatos abiertos.
+
+El Gobierno Vasco publica los datos en formato reutilizable con el fin de que terceros puedan crear servicios derivados de los mismos:
+
+A quién puede interesarle los datos:
+
+Por parte de la iniciativa privada: servicios con fines comerciales que contribuyan a generar valor para la ciudadanía.
+
+Por parte de otras Administraciones Públicas: servicios horizontales útiles para la ciudadanía y con información procedente de las diferentes administraciones competentes.
+
+Por parte de agentes interesados en fomentar la transparencia de las Administraciones Públicas: iniciativas de análisis y evaluación de la gestión pública.
+
+Objetivos:
+
+Generación de valor y riqueza: Obteniendo productos derivados de los datos por parte de empresas, infomediarios y la ciudadanía en general.
+
+Transparencia en la Administración Pública: Permitiendo la reutilización de los datos expuestos para analizar y evaluar la gestión pública.
+
+Interoperabilidad entre administraciones: Facilitando la creación de servicios para la ciudadanía que utilicen datos de diferentes administraciones públicas.
+
+Ordenación interna de la información de la Administración: Promoviendo la eficiencia en la documentación y clasificación de datos.
+
+Fomento de la reutilización de datos entre administraciones y por parte de la comunidad de reutilizadores con el objetivo de generar valor social y logar una administración más eficiente y transparente.
+
+Number of datasets hosted:
+10,922
+
+Organization (categories?, link to other services?…)
+
+La página está organizada por temas como: Ciencia y tecnología, Euskera. Demografía, Comercio, Deporte, Economía, Educación, Empleo, Energía...
+
+Tiene links a APIs de datos públicos  como Eusalmet (Agencia Vasca de meteorología), kulturklik (API de eventos culturales), API de mediciones de polen, API de tráfico...
+
+Data types:
+Los diferentes datos que se pueden consultar en la web son por ejemplo: Estadísticas, Recursos turísticos, Mapas y datos geográficos, datos de contratos, datos de elecciones, datos meteorológicos... Así que la web dispone de datos tanto estructurados, como semiestructurados y no estructurados.
+
+File formats:
+API Rest, API Euskadi.eus, XLS, XLSX (Excel), CSV ,XML, JSON, JSONP, GEOJSON, Linked Open Data, RDF, MDB, ACCDB (Access), QGIS, Calendar, KML, TXT, RSS, TMX, WMS, KMZ, SHP, TSV, ECW, Otros
+
+ 
+
+Choose a dataset:
+Write the name of the dataset:
+Calidad del aire en Euskadi durante el 2023
+
+Write the URL:
+https://opendata.euskadi.eus/catalogo/-/calidad-aire-en-euskadi-2023/
+
+Describe the dataset:
+
+El departamento de Medio Ambiente y Política Territorial del Gobierno Vasco se encarga de controlar y vigilar a través de la Red de Control de Calidad del Aire los niveles de contaminación en la Comunidad Autónoma Vasca, en cumplimiento de la obligación que tienen las Comunidades Autónomas de evaluar la calidad del aire en su territorio.
+
+Esta Red dispone de analizadores y sensores que miden los contaminantes que marca la normativa en materia de calidad del aire, principalmente dióxido de azufre (SO2), óxidos de nitrógeno (NO y NO2), ozono troposférico, monóxido de carbono (CO), benceno y partículas en suspensión (PM10 y PM2.5). Además se miden parámetros meteorológicos como velocidad y dirección del viento, temperatura, humedad relativa, presión, radiación y precipitación.
+
+La Red de Control de calidad del Aire está integrada por estaciones que se disponen por todo el territorio vasco, actualmente hay 53 estaciones, de las cuales 14 pertenecen a actividades industriales. Estas estaciones permiten medir la contaminación de fondo en condiciones naturales, la calidad del aire en zonas urbanas y también entornos industriales. De forma general se clasifican según el área donde estén; rurales, urbanas o suburbanas y según el origen de la contaminación que este recogiendo; tráfico, industria o fondo (cuando es una mezcla de varias fuentes). Además de estaciones fijas en la Red también se dispone de equipamientos móviles para poder realizar campañas indicativas en diferentes puntos del territorio.
+
+Este conjunto de datos pone a tu disposición los datos recogidos por la Red de Control de la Calidad del Aire en formatos reutilizables y actualizados diariamente. Además, puedes obtener los datos históricos de años anteriores en el Catálogo de datos.
+
+What kind of data and in what file format
+
+Datos semiestructurados en formato: JSON, CSV, XSLX
+
+ 
+
+Think about a "use case" for the chosen dataset. What could you or your company or organization use it for?
+
+Se pueden usar los datos para limitar la circulación de vehiculos en zonas con contaminación alta.
