@@ -1,0 +1,34 @@
+1. Enter name and link of 3 openData portals
+https://data.gov.cz/
+Portál otevřených dat České republiky
+https://abertos.xunta.gal/portada
+Portal Open Data da Xunta de Galicia
+https://datos.coruna.gal/
+Open Data Coruña.gal
+
+2. Choose one of the projects to analyze it in more depth.
+  1. Write the name of the chosen project
+  Portál otevřených dat České republiky
+  2. Describe the activity of the project
+  Publica datasets relacionados con la actividad de Chequia.
+  3. Number of datasets hosted
+  5670
+  4. Organization (categories?, link to other services?...)
+  Gobierno y sector público, Economía y finanzas, Población y Sociedad, Regiones y ciudades, Medio ambiente...
+  5. Data types
+  Tanto estructurados, como semiestructurados, como no estructurados.
+  6. File formats
+  CSV, ZIP, XML, JSON-LD, JSON, Excel XLSX, Esri Shape, GeoJSON, KML, HTML, RDF TriG, GML, Octem Stream, RDF Turtle, Excel XLS, RDF XML, RDF, RDFa, RDF N-Quads, RDF N-Triples, Atom Feed, TIFF, Plain text, Zipped GML, PDF, RSS feed, Esri File Geodatabase, ODS, DGN, DWG, GTFS, HDT, Word DOCX, JPEG 2000...
+
+3. Choose a dataset
+  1. Write the name of the dataset
+  Ambulantní gynekologové
+  2. Write the URL
+  https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F70889546%2F85514f28587c267bff12c334489ee002
+  3. Describe the dataset
+  Ginecólogos ambulatorios. Incluye información sobre localización espacial, web e incluso la forma legal de la empresa. La fuente de los datos es el Departamento de Salud de la Oficina Regional de la Región de Hradec Králové.
+  4. What kind of data and in what file format
+  Como JSON (datos semiestructurados) contiene muchos objetos que son ginecólogos ambulatorios con información sobre su localización, principalmente, como el nombre de la calle y el número. También está disponible en ZIP, HTML, CSV, KML y GeoJSON.
+
+4. Think about a "use case" for the chosen dataset. What could you or your company or organization use it for?
+Para encontrar un ginecólogo ambulatorio.
