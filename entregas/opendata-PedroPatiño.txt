@@ -1,0 +1,110 @@
+
+Enter name and link of 3 openData portals
+
+Portal de datos de la Xunta de Galicia: https://abertos.xunta.gal/busca-de-datos?langId=es_ES
+
+Datos del gobierno de España: https://datos.gob.es/es/catalogo
+
+Datos de ESRI España: https://opendata.esri.es/#sector
+
+ 
+
+Choose one of the projects to analyze it in more depth.
+
+Write the name of the chosen project
+
+Datos de la empresa ESRI en España
+
+ 
+
+Describe the activity of the project
+
+Usa multitud de datos de geolocalización, en diferentes ámbitos, para el uso de los usuarios, pudiendo ser consultados y descargados por el usuario.
+
+ 
+
+Number of datasets hosted
+
+1190
+
+ 
+
+Organization (categories?, link to other services?…)
+
+Comercio, empresa y negocios
+
+Datos sociodemograficos
+
+Economia
+
+Educacion, cultura turismo y ocio
+
+Gobierno, justicia y defensa
+
+Salud
+
+Ciencia, tecnologia e industria
+
+Territorio y medio ambiente
+
+Transporte
+
+Urbanismo e infraestructuras
+
+ 
+
+También ofrece links a otros servicios:
+
+https://datos.gob.es/es/
+
+https://datos.gob.es/es/catalogo
+
+https://open-data.europa.eu/es/data
+
+https://hub.arcgis.com/search
+
+ 
+
+Data types
+
+Semiestructurados
+
+ 
+
+File formats
+
+CSV, KML, Shapefile, GeoJSON
+
+ 
+
+Choose a dataset
+
+Write the name of the dataset
+
+                  Establecimientos abiertos estimados por puntos turísticos y meses
+
+ 
+
+Write the URL
+
+https://opendata.esri.es/datasets/ComunidadSIG::establecimientos-abiertos-estimados-por-puntos-turisticos-y-meses-/explore
+
+ 
+
+Describe the dataset
+
+                  La información muestra un mapa donde te devuelve la localización de los establecimientos deseados
+
+ 
+
+What kind of data and in what file format
+
+Los datos que descargados son semiestructurados, y los formatos para trabajar son CSV, KML, Shapefile y GeoJSON
+
+ 
+
+ 
+
+Think about a "use case" for the chosen dataset. What could you or your company or organization use it for?
+
+Estos datos los usaríamos para realizar un estudio de mercado de la zona deseada, pudiendo localizar las mejores ubicaciones para abrir un negocio
