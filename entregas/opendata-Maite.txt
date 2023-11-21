@@ -1,0 +1,97 @@
+Tarea: búsqueda y análisis de páginas web OpenData
+ 
+
+Ingrese el nombre y enlace de 3 portales OpenData
+
+* Datos abiertos del Consorcio Regional de Transportes de Madrid, CRTM
+
+https://data-crtm.opendata.arcgis.com/
+
+* Portales de datos abiertos Comisión Europea
+
+https://digital-strategy.ec.europa.eu/es/policies/open-data-portals/
+
+* Portal de Datos abiertos de Esri España
+
+https://opendata.esri.es/
+
+ 
+
+
+Elige uno de los proyectos para analizarlo con más profundidad.
+
+Escribe el nombre del proyecto elegido.
+
+Portal de Datos abiertos de Esri España
+
+Describe la actividad del proyecto.
+
+Esri España es unPortal de Datos Abiertos para poner a disposición de los usuarios multitud de contenidos abiertos para que se puedan consultar, analizar, descargar o generar aplicaciones y servicios con ellos.
+
+Número de conjuntos de datos alojados
+
+No lo indica
+
+Organización (¿categorías?, enlace a otros servicios?…)
+
+* Comercio, Empresa y Negocios
+
+* Datos Sociodemográficos
+
+* Economía
+
+* Educación, Cultura, Turismo y Ocio
+
+* Gobierno, Justicia y Defensa
+
+* Salud
+
+* Ciencia, Tecnología E Industria
+
+* Territorio Y Medio Ambiente
+
+* Transporte
+
+* Urbanismo E Infraestructura
+
+ 
+
+Tipos de datos
+
+Tabla Dataset
+
+Formatos de archivo
+
+La la opción de descargar en formato CSV
+
+ 
+
+Elija un conjunto de datos
+
+Escribe el nombre del conjunto de datos.
+
+Estaciones de calidad del aire de la Isla de La Palma
+
+Escribe la URL
+
+https://opendata.esri.es/
+
+Describir el conjunto de datos
+
+Una tabla tipo tabla base de datos, datos públicos, información actualizada el 20 de enero de 2022, Registros 5.581.136
+
+¿Qué tipo de datos y en qué formato de archivo?
+
+Datos sobre la calidad del aire, temperatura, humedad relativa, luminosidad, etc.
+
+En formato CSV
+
+ 
+
+Piense en un "caso de uso" para el conjunto de datos elegido.  ¿Para qué podría usarlo usted o su empresa u organización?
+
+Serian datos estructurados.
+
+Los datos serían útiles para una empresa relacionada con las energías renovables, también una empresa dedicada a la agricultura, para meteorología, etc...
+
+ 
