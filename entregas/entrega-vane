@@ -1,0 +1,44 @@
+Enter name and link of 3 openData portals: 
+
+  Portal de Datos Abiertos (Esri España)
+  
+  Portal de datos abiertos del Ayuntamiento de Madrid
+  
+  Portal oficial de datos europeos
+
+Choose one of the projects to analyze it in more depth.
+Write the name of the chosen project: Portal de Datos Abiertos (Esri España)
+Describe the activity of the project:  La empresa Esri desarrolla y comercializa software para Sistemas de Información Geográfica y es una de las compañías líderes en el sector a nivel mundial. 
+
+Pone a disposición de los usuarios multitud de contenidos abiertos para que se puedan consultar, analizar, descargar o generar aplicaciones y servicios con ellos.
+
+El Portal no sólo ofrece datos tratados por Esri España, también es una recopilación de los diferentes portales Open Data desarrollados con tecnología Esri existentes en la actualidad.
+
+Number of datasets hosted: no sé (pero muchos)
+Organization (categories?, link to other services?...): 
+
+Categorías: Medio Ambiente, Cobertura del suelo, Suelos y geología, Infraestructuras, Gente... Entre otros
+
+Otros servicios: Aplicaciones y mapas
+
+Data types: Semiestructurados y estructurados
+File formats: Feature Layer, Raster Layer, Table, Feature Service, KML, Microsoft Excel, CSV Collection, CSV, Feature Collection y Shapefile
+
+Choose a dataset
+Write the name of the dataset: Tramos de carreteras
+Write the URL: Tramos de carreteras
+Describe the dataset:
+
+Dentro de estas capas se encuentran algunas de las asociadas a las Redes de Transporte (RT). 
+Esta capa de carreteras procede de una  de esas capas publicadas en la categoría de Redes de Transporte.
+ 
+Fecha de publicación: 13 de mayo de 2021
+ 
+Registros: 1.867.839
+ 
+Atributos: id_tramo, id_vial, codigo, codigoD, dgc_via, dgc_viaD, tipo_vial, tipo_vialD, clase, claseD, nombre, nombre_alt, fuente_v, fuente_vD, tipo_tramo, tipo_tramD, calzada, calzadaD, acceso, accesoD, firme, firmeD, ncarriles, ncarrilesD, sentido, sentidoD, situacion, situacionD, estadofis, estadofisD, tipovehic, tipovehicD, titular, titularD, orden, ordenD, fuente_t, fuente_tD, fecha_alta, Shape__Length
+
+
+What kind of data and in what file format: CSV (estrucutrado), KML (semiestructurado), ShapeFile (estructurado), GeoJSON (semiestructurado)
+Think about a "use case" for the chosen dataset. What could you or your company or organization use it for? Para los sistemas de navegación GPS y mapas en línea
+
