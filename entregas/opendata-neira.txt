@@ -1,0 +1,35 @@
+ 1.-
+
+Datos do goberno --> https://datos.gob.es/es/catalogo
+
+Portal Open Data da Xunta --> https://abertos.xunta.gal/portada
+
+Datos Banco Mundial --> https://datos.bancomundial.org/
+
+2.-
+
+  1. World Bank Open Data
+
+  2. Acceso aberto e gratuito aos datos sobre o desenvolvemento no mundo na páxina do Banco Mundial.
+
+  3. 6,808 Datasets disponibles.
+
+  4. Distintos catálogos coma: Microdata Library, EnergyData info, Open Finances…
+
+  5. Structured Data.
+
+  6. JSON, Excel, CSV…
+
+3.- 
+
+  1. Gender Statistics
+
+  2. https://datacatalog.worldbank.org/search/dataset/0037654/Gender-Statistics 
+
+  3. A base de datos das Estadísticas de Xénero é unha fonte completa dos datos máis recentes separados por sexo e das estadísticas de xénero que abracan a demografia, a educación, a saúde, o acceso a oportunidades económicas, a vida pública e a toma de decisións.
+
+  4. API, CSV, Excel…
+
+4.-
+
+Poderíanse empregar estes datos estadísticos separados por sexo para distintas campañas sociais e detectar onde seguimos encontrando as maiores diferenzas e discriminacións.
