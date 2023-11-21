@@ -1,2 +1,33 @@
-Copia nesta carpeta a túa entrega en formato txt.
-Nomenclatura: opendata-oteunome.txt
+Enter name and link of 3 openData portals:
+
+-Datos del gobierno de España.
+
+-Open data AEMET.
+
+-Open data Xunta de Galicia.
+
+Choose one of the projects to analyze it in more depth:
+
+    -Open data Xunta de Galicia.
+
+    -Provides open access to data sets from the Galicia community.
+
+    -Information society, employment, agriculture, livestock, fishing, training, meteorology, health and territory.
+
+    -Environmental information, geographic information, tourist information, cultural information, transportation information, territorial information,    administrative information, socio-health information, economic information and scientific-technological information.
+
+     -CSV, JSON, HTML, KML, ODS, RDF, RSS, SOAP, WFS, WMS, XML.
+
+Choose a dataset:
+
+      -Galicia work calendar in 2024.
+
+       -https://abertos.xunta.gal/catalogo/economia-empresa-emprego/-/dataset/0603/calendario-laboral-2024
+
+       -It is a calendar to know the working and non-working days in Galicia in 2024.
+
+       -CSV, ODS, XLXS e ICS.
+
+Think about a "use case" for the chosen dataset. What could you or your company or organization use it for?
+
+      -I would use it to know the working and non-working days in 2024, be able to communicate it to workers and adapt projects to the calendar.
