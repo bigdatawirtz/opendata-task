@@ -1,0 +1,42 @@
+
+Enter name and link of 3 openData portals:
+  OpenData Portal Xunta de Galicia
+  OpenData Portal Goverment of Spain
+  OpenData Portal Goverment of Malasya
+  
+Choose one of the projects to analyze it in more depth.
+Write the name of the chosen project: 
+  OpenData Portal Xunta de Galicia
+Describe the activity of the project
+  A recolection of open data from Galicia, whether you are a citizen, a researcher or a developer.
+Number of datasets hosted
+  510
+Organization (categories?, link to other services?...)
+  Xunta de Galicia (Public Administration, Health Care, Territory, Transport , Economy etc.)
+Data types
+  Structured
+File formats
+  CSV (Comma-Separated Values)
+  HTML (HyperText Markup Language)
+  JSON (JavaScript Object Notation)
+  KML (Keyhole Markup Language)
+  KMZ (Keyhole Markup Language compressed)
+  ODS (OpenDocument Spreadsheet)
+  RDF (Resource Description Framework)
+  RSS (Really Simple Syndication)
+  SOAP (Simple Object Access Protocol)
+  WFS (Web Feature Service)
+  WMS (Web Map Service)
+  XML (eXtensible Markup Language)
+Choose a dataset
+Write the name of the dataset
+  Praias Galegas con banderira azul en 2023
+Describe the dataset
+  Location of the 113 galician's beaches with blue flags in 2023. Name of the beach, place, location, type of beach, type of sand or the size.
+What kind of data and in what file format
+File formats 
+  .csv, .ods, .kml and .xlsx
+Kind of data 
+  Structured
+Think about a "use case" for the chosen dataset. What could you or your company or organization use it for?
+  For example if you are a turistic company, you could use this information to prepare an itinerary to show the best beaches in Galicia.
