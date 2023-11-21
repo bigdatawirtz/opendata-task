@@ -1,0 +1,31 @@
+ 1.-
+
+Datos abiertos del Gobierno de España – Datos.gob.es
+URL: datos.gob.es
+
+Portal de Datos Abiertos de Esri España
+URL: opendata.esri.es
+
+Transparencia y Datos Abiertos - Punto de Acceso General
+URL: administracion.gob.es
+
+2.-
+
+Nombre del proyecto elegido: Datos abiertos del Gobierno de España – Datos.gob.es.
+Descripción de la actividad del proyecto: Este portal es una iniciativa del Gobierno de España que promueve la apertura de información pública y el desarrollo de servicios avanzados basados en datos. 
+Es gestionado por el Ministerio de Asuntos Económicos y Transformación Digital y la Entidad Pública Empresarial Red.es​​.
+Número de conjuntos de datos alojados: El portal alberga 76.277 conjuntos de datos​​.
+Organización: multiples categorias y servicios 
+Tipos de fecha: No se especifica información sobre los tipos de fecha utilizados en el portal.
+Formatos de archivo: Los formatos de archivo disponibles incluyen CSV, JSON, XLS, GeoJSON, HTML, entre otros, dependiendo del conjunto de datos específico​​.
+
+3.- 
+
+Nombre del conjunto de datos: "Estadísticas de habitantes agrupadas por inscripción censal de Sant Boi de Llobregat".
+URL: La URL específica del conjunto de datos no se proporciona directamente en el portal, pero se puede acceder a través de la sección de conjuntos de datos en CSV en datos.gob.es.
+Descripción del conjunto de datos: Este conjunto de datos contiene estadísticas demográficas del municipio de Sant Boi de Llobregat, agrupadas según la inscripción censal de los habitantes. Esto incluiría, presumiblemente, información sobre la distribución de la población por diferentes zonas o barrios del municipio.
+Tipo de datos y formato de archivo: El conjunto de datos ofrece información estadística y demográfica. Está disponible en varios formatos, incluyendo CSV, GeoJSON, HTML, y JSON​​.
+
+4.-
+Estudios de Mercado para Negocios y Comerciantes: Empresas, especialmente aquellas en el sector retail o servicios, pueden usar estos datos para identificar zonas con alta densidad de población o grupos demográficos específicos,
+optimizando así la ubicación de sus tiendas o servicios.
